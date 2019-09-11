@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sewa Mbem</string>
+    <string name="silver">SILVER</string>
+    <string name="gold">GOLD</string>
+    <string name="diamond">DIAMOND</string>
+    <string name="about_us">About US</string>
+</resources>
